@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 
-
+	//autobus commit
 	Mat image;
 	Point lineStart;
 	Point lineEnd;
